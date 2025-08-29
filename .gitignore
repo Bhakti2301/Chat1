@@ -1,0 +1,6 @@
+
+# Tool_chatbot
+Tool_chatbot/.venv/
+Tool_chatbot/convo.db
+__pycache__/
+*.pyc
