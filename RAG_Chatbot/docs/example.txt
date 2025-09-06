@@ -1,0 +1,6 @@
+This is an example document about LangGraph and RAG systems.
+
+LangGraph helps build stateful multi-agent workflows.
+RAG (Retrieval Augmented Generation) retrieves relevant context from indexed documents.
+
+This document explains how TF-IDF can be used for simple retrieval.
